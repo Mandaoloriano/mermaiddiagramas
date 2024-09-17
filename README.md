@@ -1,0 +1,2 @@
+# mermaiddiagramas
+diagramas auxiliar
